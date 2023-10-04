@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 # Define the coordinates of the location you are interested in
 latitude = 37.422
 longitude = -122.084
+#ket
 
 # Define the time period (start and end date)
 start_date = '2022-01-01'
